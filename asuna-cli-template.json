@@ -1,7 +1,5 @@
-[
-    {
-        "name":"react-app",
-        "template":"ruichengping/asuna-default-template",
-        "description":"create an APP with react"
-    }
-]
+[{
+    "name": "react-app",
+    "template": "https://github.com/ruichengping/asuna-react-app.git",
+    "description": "create an APP with react"
+}]
