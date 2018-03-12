@@ -1,5 +1,5 @@
 [{
     "name": "react-app",
-    "template": "https://github.com/ruichengping/asuna-react-app.git",
+    "template": "ruichengping/asuna-react-app",
     "description": "create an APP with react"
 }]
