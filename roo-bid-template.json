@@ -3,10 +3,5 @@
     "name":"react-webpack-pc",
     "url":"github:ruichengping/react-webpack-pc",
     "description":"基于webpack构建的react项目模板"
-  },
-  {
-    "name":"react-webpack-pc",
-    "url":"github:ruichengping/react-webpack-pc",
-    "description":"基于webpack构建的react项目模板"
-  }	
+  }
 ]
